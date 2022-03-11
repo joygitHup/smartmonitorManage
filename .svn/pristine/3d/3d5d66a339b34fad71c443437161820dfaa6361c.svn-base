@@ -1,0 +1,8 @@
+sonar.projectKey=smart_monitor_ManageProject
+sonar.projectName=smart_monitor_ManageProject
+sonar.projectVersion=1.0
+
+sonar.language=java
+sonar.sourceEncoding=UTF-8
+
+sonar.sources=C:/Users/Administrator/Desktop/smartmonitorManage
